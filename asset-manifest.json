@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/forTest/static/css/main.f5d086db.css",
+    "main.js": "/forTest/static/js/main.6e40dcef.js",
+    "static/media/Montserrat-Regular.ttf": "/forTest/static/media/Montserrat-Regular.2a2d37bf7680d86811db.ttf",
+    "static/media/patrick.png": "/forTest/static/media/patrick.b9590b205e8cbb32791a.png",
+    "static/media/pont.jpg": "/forTest/static/media/pont.463212c30cc1973bda8e.jpg",
+    "static/media/stairs.jpg": "/forTest/static/media/stairs.abd9ef908763b08af0c1.jpg",
+    "static/media/sky.jpg": "/forTest/static/media/sky.ebec45f687e8641bb064.jpg",
+    "static/media/flowers.jpg": "/forTest/static/media/flowers.3d497f8c3e6d6410fd86.jpg",
+    "static/media/jump.jpg": "/forTest/static/media/jump.4b4ce4a24a57ebe92319.jpg",
+    "static/media/vk.svg": "/forTest/static/media/vk.9904e0728dc28200fce1fd0a4e9b2c67.svg",
+    "static/media/in.svg": "/forTest/static/media/in.3f3f9bac03b5469dc80c2ffa8ea019c8.svg",
+    "static/media/tg.svg": "/forTest/static/media/tg.9ef03749ed593eb205ef074f25bcbc31.svg",
+    "index.html": "/forTest/index.html",
+    "main.f5d086db.css.map": "/forTest/static/css/main.f5d086db.css.map",
+    "main.6e40dcef.js.map": "/forTest/static/js/main.6e40dcef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5d086db.css",
+    "static/js/main.6e40dcef.js"
+  ]
+}
